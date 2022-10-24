@@ -13,5 +13,5 @@ Should look similar to below.
 Based off of EW's 141 Christmas Movies from here: https://ew.com/tv/christmas-movies-2022-how-to-watch/
 
 
-<a href="https://www.buymeacoffee.com/distearth" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://venmo.com/code?user_id=1781337551798272495&created=1666613730" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
