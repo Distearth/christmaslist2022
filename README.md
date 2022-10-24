@@ -4,6 +4,8 @@ TMDb List ID# 8223840
 View the list here: https://www.themoviedb.org/list/8223840
 
 In Radarr, Goto settings, Lists, + to add a new list, use TMDb List, in the ListId box enter 8223840
+Should look similar to below.
+
 
 ![ezcv logo](https://github.com/Distearth/christmaslist2022/blob/main/Xmas%20List%20Screenshot%20(2022).jpg?raw=true)
 
